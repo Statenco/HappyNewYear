@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HappyNewYear:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HappyNewYear_jar</output-path>
+    <root id="archive" name="HappyNewYear.jar">
+      <element id="module-output" name="HappyNewYear" />
+    </root>
+  </artifact>
+</component>
